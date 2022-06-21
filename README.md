@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @b0b1n
-- 👀 I’m interested in anything related to programming, learning new stuff
+- 👀 I’m interested in anything related to programming, web development, learning new stuff
 - 🌱 I’m currently learning web development in order to be a FullStack
 - 💞️ I’m looking to collaborate on any project to sharpen my skills 
 - I'm interested in expending my knowledge with projects, books, and real world applications ...
