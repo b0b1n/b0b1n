@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project to sharpen my skills 
 - I'm interested in expending my knowledge with projects, books, and real world applications ...
 - 📫 How to reach me : sohaibskious@gmail.com
-- LinkedIN : https://www.linkedin.com/in/sohaib-skious-3758a21a6/
+- LinkedIn : https://www.linkedin.com/in/sohaib-skious-3758a21a6/
 - HakerRank : https://www.hackerrank.com/b0b1n
 
 <!---
